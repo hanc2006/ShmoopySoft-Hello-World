@@ -8,6 +8,8 @@ namespace ShmoopySoft_Hello_World
         {
             Console.WriteLine("Hello, World!");
             Console.ReadKey(true);
+            Console.WriteLine("This is ShmoopySoft!");
+            Console.ReadKey(true);
         }
     }
 }
