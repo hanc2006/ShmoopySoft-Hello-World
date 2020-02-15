@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ShmoopySoft Hello World")]
 [assembly: AssemblyDescription("An example Visual Studio project to create our first GitHub repository :-)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ShmoopySoft (Pty) Ltd")]
 [assembly: AssemblyProduct("ShmoopySoft Hello World")]
 [assembly: AssemblyCopyright("Copyright © 2020 by ShmoopySoft (Pty) Ltd")]
 [assembly: AssemblyTrademark("")]
