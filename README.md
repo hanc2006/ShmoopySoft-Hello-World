@@ -1,6 +1,6 @@
 # ShmoopySoft Hello World
 
-A Visual Studio 2019 project written in C# for our first GitHub repository :-)
+A Visual Studio 2019 console application project written in C# for our first GitHub repository :-)
 
 ### Running
 
