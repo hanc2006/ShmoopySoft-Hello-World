@@ -1,7 +1,7 @@
 ﻿/*
  * MIT License
  * 
- * Copyright(c) 2020 ShmoopySoft
+ * Copyright(c) 2020 ShmoopySoft (Pty) Ltd
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
  * associated documentation files (the "Software"), to deal in the Software without restriction, including 
@@ -28,8 +28,6 @@ namespace ShmoopySoft_Hello_World
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.ReadKey(true);
-            Console.WriteLine("This is ShmoopySoft!");
             Console.ReadKey(true);
         }
     }
