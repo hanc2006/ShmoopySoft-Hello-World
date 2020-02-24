@@ -23,11 +23,22 @@ using System;
 
 namespace ShmoopySoft_Hello_World
 {
+    /// <summary>
+    /// The Program class's responsibility is to provide an entry point for the application.
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// C# applications have an entry point called the Main Method. 
+        /// It is the first method that gets invoked when an application starts.
+        /// </summary>
+        /// <param name="args">Command line arguments as string type parameters</param>
         static void Main(string[] args)
         {
+            // Write to the console.
             Console.WriteLine("Hello, World!");
+
+            // Wait for a key press.
             Console.ReadKey(true);
         }
     }
